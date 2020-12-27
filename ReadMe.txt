@@ -1,0 +1,2 @@
+Repository contains several small programs, each of which demonstrating a type of AI behaviour or Pathfinding ability. 
+Projects were created as part of a second year university module which covered the different methods of AI behaviour and Pathfinding, along with their uses and weaknesses.
