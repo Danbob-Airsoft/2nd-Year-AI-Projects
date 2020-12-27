@@ -1,0 +1,3 @@
+﻿  FiniteStateMachine.cpp
+C:\Users\Games\Desktop\FiniteStateMachine\FiniteStateMachine\FiniteStateMachine\FiniteStateMachine.cpp(29,7): warning C4101:  'i': unreferenced local variable
+  FiniteStateMachine.vcxproj -> C:\Users\Games\Desktop\FiniteStateMachine\FiniteStateMachine\Debug\FiniteStateMachine.exe

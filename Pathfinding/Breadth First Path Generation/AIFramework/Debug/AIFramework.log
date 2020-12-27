@@ -1,0 +1,57 @@
+﻿  AStarGrid.cpp
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\AStarGrid.cpp(21,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\AStarGrid.cpp(21,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\AStarGrid.cpp(22,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\AStarGrid.cpp(23,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\AStarGrid.cpp(41,19): warning C4018: '<': signed/unsigned mismatch
+  BaseEntity.cpp
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(40,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(98,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(99,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(129,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(129,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(220,90): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(220,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(223,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\BaseEntity.cpp(223,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\main.cpp(58,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\main.cpp(59,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\main.cpp(69,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\main.cpp(70,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\main.cpp(75,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  AIFramework.vcxproj -> C:\Users\danie\Desktop\AI\Portfolio\Dijkstra's Pathfinding\AIFramework\Debug\AIFramework.exe

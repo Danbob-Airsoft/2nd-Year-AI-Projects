@@ -1,0 +1,24 @@
+﻿  AStarGrid.cpp
+C:\Users\danie\Documents\GitHub\ai-portfolio-Danbob-Airsoft\AStarPathfinding\AIFramework\AStarGrid.cpp(21,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Documents\GitHub\ai-portfolio-Danbob-Airsoft\AStarPathfinding\AIFramework\AStarGrid.cpp(21,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Documents\GitHub\ai-portfolio-Danbob-Airsoft\AStarPathfinding\AIFramework\AStarGrid.cpp(22,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Documents\GitHub\ai-portfolio-Danbob-Airsoft\AStarPathfinding\AIFramework\AStarGrid.cpp(23,42): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\danie\Documents\GitHub\ai-portfolio-Danbob-Airsoft\AStarPathfinding\AIFramework\AStarGrid.cpp(48,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\Documents\GitHub\ai-portfolio-Danbob-Airsoft\AStarPathfinding\AIFramework\AStarGrid.cpp(61,79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AIFramework.vcxproj -> C:\Users\danie\Documents\GitHub\ai-portfolio-Danbob-Airsoft\AStarPathfinding\AIFramework\Debug\AIFramework.exe
